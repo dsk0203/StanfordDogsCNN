@@ -1,3 +1,9 @@
 env/
 .ipynb_checkpoints/
 main_images/
+db.npz
+db.pkl
+attempt_two.ipynb
+dog_classifier_model.ipynb
+images/
+annotations/
